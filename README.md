@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gisselt</h1>
+<h1 align="center">Hi, I'm Gisselt 👋</h1>
 <h3 align="center">An aspiring developer from Dallas, TX</h3>
 
 - 🔭 I’m currently working on **Job Portal Application**
@@ -8,6 +8,8 @@
 - 💬 Ask me about **react, JS**
 
 - 📫 How to reach me **egisselt@gmail.com**
+
+- ⚡ Fun fact **I enjoy art and fashion history!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
