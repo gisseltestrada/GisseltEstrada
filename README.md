@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Gisselt 👋</h1>
-<h3 align="center">An aspiring developer from Dallas, TX</h3>
+<h3 align="center">Full Stack software engineer from Dallas, TX</h3>
 
-- 🔭 I’m currently working on **Job Portal Application**
+- 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **react, JS**
+- 💬 Ask me about **Node.js, Angular, GraphQL**
 
 - 📫 How to reach me **egisselt@gmail.com**
 
