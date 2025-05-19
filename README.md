@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **Node.js, Angular, GraphQL**
 
 - 📫 How to reach me **egisselt@gmail.com**
